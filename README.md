@@ -30,15 +30,15 @@
 
 <br/><br/><br/><br/>
 
-<div id="contact">
+<div id="contact" align="center">
   <h2>Connect with me</h2>
-  <img src="https://img.shields.io/badge/%3CServer%3E-%237289DA.svg?style=for-the-badge&logo=discord&logoColor=white">
-  <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white">
+  [<img src="https://img.shields.io/badge/%3CServer%3E-%237289DA.svg?style=for-the-badge&logo=discord&logoColor=white">](https://discord.gg/tYwZ5UjyzP)
+  [<img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white">](solo345r@gmail.com)
 </div>  
 
 <br/><br/><br/><br/>
 
-<div id="stats">
+<div id="stats" align=""center">
     <h2>Stats</h2>
     <img src="https://github-readme-stats.vercel.app/api?username=sololinux&show_icons=true&theme=midnight-purple&hide=prs,contribs"><br/>
     <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sololinux&layout=compact&theme=vision-friendly-dark"><br/>
