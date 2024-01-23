@@ -1,8 +1,8 @@
 <div id="header">
   <h2>Hola, Developers</h2>
   <img src="https://media.giphy.com/media/RbDKaczqWovIugyJmW/giphy.gif" align="right" width="350" height="200"><br/><br/>
-  <img src="https://img.shields.io/badge/%20I%20am%20Raj%20Chaulagain-aqua" height="45" width="350"><br/><br/>
-  <img src="https://img.shields.io/badge/%20Do%20it,%20the%20way%20you%20like%20it-black" height="35" width="300">
+  <img src="https://img.shields.io/badge/%20I%20am%20Raj%20Chaulagain-aqua" height="45"><br/><br/>
+  <img src="https://img.shields.io/badge/%20Do%20it,%20the%20way%20you%20like%20it-black" height="35">
 </div>
 
 <br/><br/><br/><br/>
