@@ -1,8 +1,5 @@
-<div id="header">
-  <h2>Hola, Developers</h2>
-  <img src="https://media.giphy.com/media/RbDKaczqWovIugyJmW/giphy.gif" align="right" width="350" height="200"><br/><br/>
-  <img src="https://img.shields.io/badge/%20I%20am%20Raj%20Chaulagain-aqua" height="45"><br/><br/>
-  <img src="https://img.shields.io/badge/%20Do%20it,%20the%20way%20you%20like%20it-black" height="35">
+<div id="header" align="center">
+  <img src="./top.gif" width="80%" alt="top gif">
 </div>
 
 <br/><br/><br/><br/>
@@ -48,7 +45,6 @@
 </div>  
 <br><br>
 
-<img src="./final-ezgif.com-crop.gif" width="60vw" height="">
 
 
 
