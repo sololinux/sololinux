@@ -46,5 +46,13 @@
       <img src="http://github-readme-streak-stats.herokuapp.com/?user=sololinux&theme=midnight-purple&background=000000"><br/>
     </div>
 </div>  
+<br><br>
 
-  <!--<img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" align="right" width="300" height="200"><br/><br/>-->
+<img src="./final-ezgif.com-crop.gif" width="60%" height="">
+
+
+
+
+
+
+  
