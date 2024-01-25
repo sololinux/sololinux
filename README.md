@@ -48,7 +48,7 @@
 </div>  
 <br><br>
 
-<img src="./final-ezgif.com-crop.gif" width="60%" height="">
+<img src="./final-ezgif.com-crop.gif" width="60vw" height="">
 
 
 
