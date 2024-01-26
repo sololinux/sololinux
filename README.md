@@ -1,4 +1,4 @@
-<img src="./gifs/banner.gif" alt="top gif">
+<img src="./gifs/banner.gif" alt="banner">
 
 <br/><br/>
 
@@ -27,9 +27,10 @@
 <br/><br/><br/><br/>
 
 <div id="contact">
-  <img src="./gifs/connect.gif" alt="i code">  
-  <a href="https://discord.gg/tYwZ5UjyzP"><img src="https://img.shields.io/badge/%3CServer%3E-%237289DA.svg?style=for-the-badge&logo=discord&logoColor=white"></a>
-  <a href="mailto:solo345r@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"></a>
+  <img src="./gifs/connect.gif" alt="connect me">
+  <br><br>
+  <img src="https://user-images.githubusercontent.com/74038190/235294013-a33e5c43-a01c-43f6-b44d-a406d8b4ab75.gif" width="150" alt="instagram">
+  <img src="https://user-images.githubusercontent.com/74038190/235294015-47144047-25ab-417c-af1b-6746820a20ff.gif" width="150" alt="discord">
 </div>  
 
 <br/><br/><br/><br/>
