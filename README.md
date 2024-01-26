@@ -1,5 +1,4 @@
-
-<img src="./hey,.gif" alt="top gif">
+<img src="./banner.gif" alt="top gif">
 
 <br/><br/>
 
