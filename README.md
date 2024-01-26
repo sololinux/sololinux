@@ -1,8 +1,7 @@
-<div id="header" align="center">
-  <img src="./top.gif" width="80%" alt="top gif">
-</div>
 
-<br/><br/><br/><br/>
+<img src="./hey,.gif" alt="top gif">
+
+<br/><br/>
 
 <div id="skills">
   <h2>Skills</h2>
