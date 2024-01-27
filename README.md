@@ -25,8 +25,8 @@
 <div id="contact">
   <img src="./gifs/connect.gif" alt="connect me">
   <div align="center">
-    <img src="./gifs/connect/ig.gif" alt="html">
     <img src="./gifs/connect/gmail.gif" alt="css">
+    <img src="./gifs/connect/ig.gif" alt="html">
     <img src="./gifs/connect/discord.gif" alt="js">
   </div>
 </div>  
