@@ -1,21 +1,21 @@
 <img src="./gifs/hey.gif" alt="banner">
 
-<br/><br/>
+<br/><br/><br>
 
 <div id="skills">
   <img src="./gifs/code.gif" alt="i code">
-  <br>
+  <br><br>
   <div align="center">
-    <img src="./gifs/code/html.gif" alt="html">
-    <img src="./gifs/code/css.gif" alt="css">
-    <img src="./gifs/code/js.gif" alt="js">
+    <img src="./gifs/code/html.gif" alt="html">&nbsp;
+    <img src="./gifs/code/css.gif" alt="css">&nbsp;
+    <img src="./gifs/code/js.gif" alt="js">&nbsp;
     <img src="./gifs/code/tailwind.gif" alt="tailwind">
     <br>
-    <img src="./gifs/code/node.gif" alt="node">
-    <img src="./gifs/code/express.gif" alt="express">
-    <img src="./gifs/code/mongo.gif" alt="mongoDB">
+    <img src="./gifs/code/node.gif" alt="node">&nbsp;
+    <img src="./gifs/code/express.gif" alt="express">&nbsp;
+    <img src="./gifs/code/mongo.gif" alt="mongoDB">&nbsp;
     <br>
-    <img src="./gifs/code/git.gif" alt="git">
+    <img src="./gifs/code/git.gif" alt="git">&nbsp;
     <img src="./gifs/code/arch.gif" alt="arch">
   </div>
 </div>
@@ -24,9 +24,10 @@
 
 <div id="contact">
   <img src="./gifs/connect.gif" alt="connect me">
+  <br><br>
   <div align="center">
-    <img src="./gifs/connect/gmail.gif" alt="css">
-    <img src="./gifs/connect/ig.gif" alt="html">
+    <img src="./gifs/connect/gmail.gif" alt="css">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+    <img src="./gifs/connect/ig.gif" alt="html">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
     <img src="./gifs/connect/discord.gif" alt="js">
   </div>
 </div>  
@@ -46,11 +47,5 @@
     </div>
 </div>  
 <br><br>
-
-
-
-
-
-
 
   
