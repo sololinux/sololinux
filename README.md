@@ -41,10 +41,10 @@
 <div id="stats">
   <img src="./gifs/misl.gif" alt="miscellaneous">
   <br><br>
-    <div align="center">
-      <img src="https://github-readme-stats.vercel.app/api?username=sololinux&show_icons=true&theme=midnight-purple&hide=prs,contribs"><br/><br/>
-      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sololinux&hide=css,html&theme=midnight-purple"><br/><br/>
-      <img src="http://github-readme-streak-stats.herokuapp.com/?user=sololinux&theme=midnight-purple&background=000000"><br/>
+    <div align="">
+      <img src="https://github-readme-stats.vercel.app/api?username=sololinux&show_icons=true&theme=midnight-purple&hide=prs,contribs">
+      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sololinux&hide=css,html&theme=midnight-purple">
+      <img src="http://github-readme-streak-stats.herokuapp.com/?user=sololinux&theme=midnight-purple&background=000000">
     </div>
 </div>  
 <br><br>
