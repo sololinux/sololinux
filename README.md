@@ -39,7 +39,8 @@
 
 
 <div id="stats">
-    <h2>Stats</h2>
+  <img src="./gifs/misl.gif" alt="miscellaneous">
+  <br><br>
     <div align="center">
       <img src="https://github-readme-stats.vercel.app/api?username=sololinux&show_icons=true&theme=midnight-purple&hide=prs,contribs"><br/><br/>
       <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sololinux&hide=css,html&theme=midnight-purple"><br/><br/>
