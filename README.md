@@ -40,7 +40,7 @@
   <img src="./gifs/connect.gif" alt="connect me">
   <br>
   <div align="center">
-    <a href="mailto:chauraj345r@gmail.com>
+    <a href="mailto:chauraj345r@gmail.com">
       <img src="./gifs/connect/gmail.gif" alt="Gmail">
     </a>&emsp;&emsp;
     <a href="https://instagram.com/raj.3__">
