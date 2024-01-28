@@ -1,4 +1,6 @@
-<img src="./gifs/hey.gif" alt="banner">
+<a href="https://rajchau.me">
+  <img src="./gifs/hey.gif" alt="banner">
+</a>
 
 <br><br><br>
 
@@ -22,18 +24,6 @@
 
 <br><br><br>
 
-<div id="contact">
-  <img src="./gifs/connect.gif" alt="connect me">
-  <br>
-  <div align="center">
-    <img src="./gifs/connect/gmail.gif" alt="Gmail">&emsp;&emsp;
-    <img src="./gifs/connect/ig.gif" alt="Instagram">&emsp;&emsp;
-    <img src="./gifs/connect/discord.gif" alt="Discord">&emsp;&emsp;
-  </div>
-</div>  
-
-<br><br><br>
-
 <div id="stats">
   <img src="./gifs/misl.gif" alt="miscellaneous">
   <br>
@@ -42,7 +32,25 @@
     <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sololinux&theme=midnight-purple&langs_count=8&layout=compact" />
   </div>
   <img src="https://readme-typing-svg.demolab.com?font=Space+Mono&weight=500&size=25&duration=1000&pause=500&color=04C7FF&background=000000&multiline=true&random=false&width=830&height=230&lines=%5B%F0%9D%97%BF%F0%9D%97%BC%F0%9D%97%BC%F0%9D%98%81%40%F0%9D%98%80%F0%9D%97%BC%F0%9D%97%B9%F0%9D%97%BC%5D%24+%F0%9D%9A%A0%F0%9D%9A%91%F0%9D%9A%98+%F0%9D%9A%8A%F0%9D%9A%96+%F0%9D%9A%92;%E2%80%8E;%3E%E2%80%8E+%E2%80%8E+%E2%80%8E+backend+developer;%3E%E2%80%8E+%E2%80%8E+%E2%80%8E+node+fetcher;%3E+%E2%80%8E+%E2%80%8E+%E2%80%8Epromise+resolver;%3E%E2%80%8E+%E2%80%8E+%E2%80%8E+git+hubber;%3E%E2%80%8E+%E2%80%8E+%E2%80%8E+student" alt="Typing SVG">
-</div>  
+</div>
+
+<br><br><br>
+
+<div id="contact">
+  <img src="./gifs/connect.gif" alt="connect me">
+  <br>
+  <div align="center">
+    <a href="mailto:"chauraj345r@gmail.com">
+      <img src="./gifs/connect/gmail.gif" alt="Gmail">&emsp;&emsp;
+    </a>
+    <a href="https://instagram.com/raj.3__">
+      <img src="./gifs/connect/ig.gif" alt="Instagram">&emsp;&emsp;
+    </a>
+    <a href="discordapp.com/users/813709049978945546">
+      <img src="./gifs/connect/discord.gif" alt="Discord">&emsp;&emsp;
+    </a>
+  </div>
+</div>
 
 <br><br><br>
 
