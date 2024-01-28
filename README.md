@@ -26,9 +26,9 @@
   <img src="./gifs/connect.gif" alt="connect me">
   <br><br>
   <div align="center">
-    <img src="./gifs/connect/gmail.gif" alt="css">&emsp;&emsp;
-    <img src="./gifs/connect/ig.gif" alt="html">&emsp;&emsp;
-    <img src="./gifs/connect/discord.gif" alt="js">&emsp;&emsp;
+    <img src="./gifs/connect/gmail.gif" alt="Gmail">&emsp;&emsp;
+    <img src="./gifs/connect/ig.gif" alt="Instagram">&emsp;&emsp;
+    <img src="./gifs/connect/discord.gif" alt="Discord">&emsp;&emsp;
   </div>
 </div>  
 
@@ -41,11 +41,11 @@
 <div id="stats">
   <img src="./gifs/misl.gif" alt="miscellaneous">
   <br><br>
-    <div align="">
-      <img src="https://github-readme-stats.vercel.app/api?username=sololinux&show_icons=true&theme=midnight-purple&hide=prs,contribs">
-      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sololinux&hide=css,html&theme=midnight-purple">
-      <img src="http://github-readme-streak-stats.herokuapp.com/?user=sololinux&theme=midnight-purple&background=000000">
-    </div>
+  <div align="center">
+    <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=sololinux&show_icons=true&theme=midnight-purple&show=reviews&hide=contribs" />
+    &nbsp;
+    <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sololinux&theme=midnight-purple&langs_count=8&layout=compact" />
+  </div>
 </div>  
 <br><br>
 
