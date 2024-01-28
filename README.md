@@ -26,9 +26,9 @@
   <img src="./gifs/connect.gif" alt="connect me">
   <br><br>
   <div align="center">
-    <img src="./gifs/connect/gmail.gif" alt="css">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-    <img src="./gifs/connect/ig.gif" alt="html">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-    <img src="./gifs/connect/discord.gif" alt="js">
+    <img src="./gifs/connect/gmail.gif" alt="css">&emsp;&emsp;
+    <img src="./gifs/connect/ig.gif" alt="html">&emsp;&emsp;
+    <img src="./gifs/connect/discord.gif" alt="js">&emsp;&emsp;
   </div>
 </div>  
 
