@@ -40,13 +40,13 @@
   <img src="./gifs/connect.gif" alt="connect me">
   <br>
   <div align="center">
-    <a href="mailto:"chauraj345r@gmail.com">
+    <a href="mailto:chauraj345r@gmail.com>
       <img src="./gifs/connect/gmail.gif" alt="Gmail">
     </a>&emsp;&emsp;
     <a href="https://instagram.com/raj.3__">
       <img src="./gifs/connect/ig.gif" alt="Instagram">
     </a>&emsp;&emsp;
-    <a href="discordapp.com/users/813709049978945546">
+    <a href="https://discordapp.com/users/813709049978945546">
       <img src="./gifs/connect/discord.gif" alt="Discord">
     </a>&emsp;&emsp;
   </div>
