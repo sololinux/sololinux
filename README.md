@@ -42,7 +42,7 @@
   <img src="./gifs/misl.gif" alt="miscellaneous">
   <br><br>
   <div>
-    <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=sololinux&show_icons=true&theme=midnight-purple&show=reviews&hide=contribs" />
+    <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=sololinux&theme=midnight-purple&show=reviews&hide=contribs" />
     <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sololinux&theme=midnight-purple&langs_count=8&layout=compact" />
   </div>
 </div>  
