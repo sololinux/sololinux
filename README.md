@@ -43,7 +43,6 @@
   <br><br>
   <div align="center">
     <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=sololinux&show_icons=true&theme=midnight-purple&show=reviews&hide=contribs" />
-    &nbsp;
     <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sololinux&theme=midnight-purple&langs_count=8&layout=compact" />
   </div>
 </div>  
